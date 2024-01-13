@@ -1,4 +1,4 @@
-### Hey there, I'm Julien <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
+### Hey, I'm Julien <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
 I’m a data scientist with a passion for building machine learning applications with a particular interest in algorithmic discrimination for financial data.
 
