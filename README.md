@@ -2,7 +2,7 @@
 
 I’m a data scientist with a passion for building machine learning applications with a particular interest in algorithmic discrimination for financial data.
 
-With all the projects that I take on, I bring high value skills, creative solutions, amd a hunger for knowledge. Are you ready to tackle big data challenges together? Let's go, I'm ready to build.
+With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge. Are you ready to tackle big data challenges together? Let's go, I'm ready to build.
 
 Want to know more about me? Check out my links below.
 
