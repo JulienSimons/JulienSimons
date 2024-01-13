@@ -2,11 +2,11 @@
 
 I’m a data scientist with a passion for building machine learning applications with a particular interest in algorithmic discrimination for financial data.
 
-With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge. Are you ready to tackle big data challenges together? Let's go, I'm ready to build.
+With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge. Are you ready to tackle big data challenges together? Let's go. I'm ready to build.
 
 Want to know more about me? Check out my links below.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/JulienSimons/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Julien-Simons/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/jul13ns/)
 <img src="https://komarev.com/ghpvc/?username=JulienSimons&label=Profile%20views&color=1f6feb" alt="JulienSimons" />
 <br> 
