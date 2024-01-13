@@ -23,8 +23,8 @@ Want to know more about me? Check out my links below.
   </div>
 <br>
 <div align=center>
- <img src="/github-metrics.svg" alt="Metrics" width="400" margin-right='50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JulienSimons">
+ <!-- <img src="/github-metrics.svg" alt="Metrics" width="400" margin-right='50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JulienSimons"> -->
 <img width='400px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSimons&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
   <a href="https://github.com/JulienSimons">
