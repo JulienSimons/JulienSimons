@@ -4,11 +4,9 @@
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Home-loans&bg_color=20232A&theme=react" />
 </a>
 
-<!--
 <a href="https://github.com/JulienSimons/Market-trends">
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Market-trends&bg_color=20232A&theme=react" />
 </a>
--->
 
 ### Hey, I'm Julien <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
