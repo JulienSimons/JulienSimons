@@ -1,11 +1,11 @@
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/JulienSimons/Home-loans">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Home-loans&bg_color=20232A&theme=react" />
+<a href="https://github.com/JulienSimonsHome-loan-discrimination">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Home-loan-discrimination&bg_color=20232A&theme=react" />
 </a>
 
-<a href="https://github.com/JulienSimons/Market-trends">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Market-trends&bg_color=20232A&theme=react" />
+<a href="https://github.com/JulienSimons/Parallel-market-trends">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Parallel-market-trends&bg_color=20232A&theme=react" />
 </a>
 
 ### Hey, I'm Julien <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
@@ -33,11 +33,9 @@ Want to know more about me? Check out my links below.
   </div>
 <br>
 <div align=center>
- <!-- <img src="/github-metrics.svg" alt="Metrics" width="400" margin-right='50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JulienSimons"> -->
 <img width='400px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSimons&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
-  <!--
+  <!-- Activity Calendar
   <a href="https://github.com/JulienSimons">
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/JulienSimons?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
