@@ -37,10 +37,12 @@ Want to know more about me? Check out my links below.
   <a href="https://github.com/JulienSimons"> -->
 <img width='400px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSimons&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
+  <!--
   <a href="https://github.com/JulienSimons">
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/JulienSimons?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
  <br><br>
+  -->
 </div>
 
 
