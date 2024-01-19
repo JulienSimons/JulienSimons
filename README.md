@@ -1,6 +1,6 @@
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/JulienSimonsHome-loan-discrimination">
+<a href="https://github.com/JulienSimons/Home-loan-discrimination">
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JulienSimons&repo=Home-loan-discrimination&bg_color=20232A&theme=react" />
 </a>
 
