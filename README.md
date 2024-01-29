@@ -28,7 +28,7 @@ Want to know more about me? Check out my links below.
   <img width='400px' alt="Julien J. Simons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JulienSimons&show_icons=true&count_private=true&bg_color=20232A&theme=react" />
 </a>
 <a href="https://github.com/JulienSimons">
-  <img width='420px' alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=JulienSimons&theme=react&bg_color=20232A" />
+  <img width='425px' alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=JulienSimons&theme=react&bg_color=20232A" />
   </a>  
   </div>
 <br>
@@ -43,12 +43,8 @@ Want to know more about me? Check out my links below.
   -->
 </div>
 
-
 <!--
-**JulienSimons/JulienSimons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Extra ideas:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
