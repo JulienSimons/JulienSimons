@@ -25,15 +25,15 @@ Want to know more about me? Check out my links below.
 <br>
 <div align=center>
  <a href="https://github.com/JulienSimons">
-  <img width='400px' src="https://github-readme-stats.vercel.app/api?username=JulienSimons&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Julien's GitHub Stats" />
+  <img width='400px' alt="Julien J. Simons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JulienSimons&show_icons=true&count_private=true&bg_color=20232A&theme=react" />
 </a>
 <a href="https://github.com/JulienSimons">
-  <img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=JulienSimons&theme=react&bg_color=20232A" />
+  <img width='420px' alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=JulienSimons&theme=react&bg_color=20232A" />
   </a>  
   </div>
 <br>
 <div align=center>
-<img width='400px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSimons&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
+<img width='400px' alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSimons&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
   <!-- Activity Calendar
   <a href="https://github.com/JulienSimons">
