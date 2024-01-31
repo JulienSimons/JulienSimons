@@ -15,10 +15,9 @@ I’m a data scientist with a passion for building machine learning applications
 My expertise is machine learning and AI model training using data manipulation, visualization, and processing for financial and clinical environments. I have over 7 years of experience managing and analyzing big data from financial records, hospital reports, specimen samples, blockchains, websites, social media, games, and cloud databases. I utilize Python, R (Shiny), Git, SQL, Java, and various languages and frameworks to create interactive web applications that reveal big data trends.
 
 With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge.
-
 How about we tackle some big data challenges together? Let's go. I'm ready to build.
 
-Want to know more about me? Check out my links below.
+Learn more about me in my links below.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Julien-Simons/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/jul13ns/)
