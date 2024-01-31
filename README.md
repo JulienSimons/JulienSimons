@@ -14,7 +14,7 @@ I’m a data scientist with a passion for building machine learning applications
 
 My expertise is machine learning and AI model training using data manipulation, visualization, and processing for financial and clinical environments. I have over 7 years of experience managing and analyzing big data from financial records, hospital reports, specimen samples, blockchains, websites, social media, games, and cloud databases. I utilize Python, R (Shiny), Git, SQL, Java, and various languages and frameworks to create interactive web applications that reveal big data trends.
 
-With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge.
+With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge. <br>
 How about we tackle some big data challenges together? Let's go. I'm ready to build.
 
 Learn more about me in my links below.
