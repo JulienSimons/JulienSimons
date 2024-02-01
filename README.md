@@ -29,7 +29,7 @@ Learn more about me in my links below.
 <br>
 <div align=center>
  <a href="https://github.com/JulienSimons">
-  <img width='400px' alt="Julien J. Simons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JulienSimons&show_icons=true&count_private=true&bg_color=20232A&theme=react" />
+  <img width='400px' alt="Julien J. Simons' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JulienSimons&show_icons=true&count_private=true&bg_color=20232A&theme=react" />
 </a>
 <a href="https://github.com/JulienSimons">
   <img width='425px' alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=JulienSimons&theme=react&bg_color=20232A" />
