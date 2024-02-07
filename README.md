@@ -13,7 +13,7 @@
 I’m a data scientist with a passion for building machine learning applications with a particular interest in algorithmic discrimination for financial data.
 Visit my most recent work: https://JulienSimons.shinyapps.io/home-loan/. 
 
-My expertise is machine learning and AI model training using data manipulation, processing, and visualization for financial and clinical environments. I have over 7 years of experience managing and analyzing big data from financial records, hospital reports, specimen samples, blockchains, websites, social media, games, and cloud databases. I utilize Python, R (Shiny), Power BI, SQL, Git, Java, and various languages and frameworks to create interactive web applications that reveal big data trends.
+Over 7 years of experience managing and analyzing big data from financial records, hospital reports, specimen samples, blockchains, websites, social media, games, and cloud databases. Specialized in training machine learning and Al models using data manipulation, processing, and visualization to identify trends and develop solutions for financial and clinical environments. I utilize Python, R Shiny, R, Power BI, Git, SQL, Java, JavaScript, HTML and CSS with various languages and frameworks to create interactive web applications and dashboards for revealing insightful results on big data.
 
 With all the projects that I take on, I bring high value skills, creative solutions, and a hunger for knowledge. <br>
 How about we tackle some big data challenges together? Let's go. I'm ready to build.
