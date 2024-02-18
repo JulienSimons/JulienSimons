@@ -10,8 +10,8 @@
 
 ### Hey, I'm Julien <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
-I’m a data scientist with a passion for building machine learning applications with a particular interest in algorithmic discrimination for financial data.
-Visit my most recent work: https://JulienSimons.shinyapps.io/home-loan/. 
+I’m a data scientist with a passion for data anaylsis and building machine learning applications. My most recent work involves a particular interest in algorithmic discrimination for financial data.
+Visit interactive dashboard: https://JulienSimons.shinyapps.io/home-loan/. 
 
 Over 7 years of experience managing and analyzing big data from financial records, hospital reports, specimen samples, blockchains, websites, social media, games, and cloud databases. Specialized in training machine learning and Al models using data manipulation, processing, and visualization to identify trends and develop solutions for financial and clinical environments. I utilize Python, R Shiny, R, Power BI, Git, SQL, Java, JavaScript, HTML and CSS among various languages and frameworks to create interactive web applications and dashboards for revealing insightful results and tailored solutions from big data.
 
